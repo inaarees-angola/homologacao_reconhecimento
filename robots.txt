@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://inaarees-angola.github.io/homologacao_reconhecimento/sitemap.xml
